@@ -1,0 +1,10 @@
+{
+  "name": "selftrainer-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix selftrainer run dev",
+    "dev:web": "npm --prefix selftrainer run dev:web",
+    "dev:mobile": "npm --prefix selftrainer run dev:mobile",
+    "build": "npm --prefix selftrainer run build"
+  }
+}
